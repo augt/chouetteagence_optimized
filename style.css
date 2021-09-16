@@ -1040,3 +1040,16 @@ h4 {
         text-align: center;
     }
 }
+
+.former_picture{
+    font-size: 1.5em;
+}
+
+.former_picture.italic{
+    font-style: italic;
+    margin-bottom: 0;
+}
+.bigger {
+    font-size: 1.2em;
+    margin-top: 0;
+}
