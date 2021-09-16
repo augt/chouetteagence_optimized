@@ -822,7 +822,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
@@ -1052,4 +1052,7 @@ h4 {
 .bigger {
     font-size: 1.2em;
     margin-top: 0;
+}
+.middle{
+    margin: auto;
 }
