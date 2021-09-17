@@ -1056,3 +1056,6 @@ h4 {
 .middle{
     margin: auto;
 }
+.increased_size{
+    font-size: 1.2em;
+}
